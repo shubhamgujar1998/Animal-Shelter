@@ -20,9 +20,14 @@ body {
   position: absolute;
   left: 0px;
   top: 0px;
+  
+  /*height: -webkit-fill-available; */
+  /*width: -webkit-fill-available;    */
+  padding: 43px 142px;
   z-index: -1;
-  height: -webkit-fill-available; 
-  width: -webkit-fill-available;    
+  margin: 0 auto;
+  background-size: cover;
+  
 
 
   /* Center and scale the image nicely */
